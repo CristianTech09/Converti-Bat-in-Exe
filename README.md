@@ -10,3 +10,5 @@ Ovviamente devi avere sul tuo PC anche lo Script da Convertire, Io farò un esem
 # 3)Importa il progetto nel programma
 una volta aperto il convertitore bisogna aprire lo script batch cliccando su "Open"
 ![alt text](https://raw.githubusercontent.com/CristianTech09/Converti-Bat-in-Exe/main/Screen.png)
+e selezionare lo script da convertire
+![alt text](https://raw.githubusercontent.com/CristianTech09/Converti-Bat-in-Exe/main/Screen2.png)
