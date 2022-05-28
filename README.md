@@ -15,3 +15,5 @@ e selezionare lo script da convertire
 # 4)Integrazione di Altri File (Se necessario)
 se lo script necessita di altri file per funzionare correttamente, bisogna importarli direttamente nell'eseguibile tramite la scheda Embed che all'avvio del programma estrarra in automatico i file necessari e se impostato dall'utente può eliminarli in automatico alla chiusura
 ![alt text](https://raw.githubusercontent.com/CristianTech09/Converti-Bat-in-Exe/main/Screen3.png)
+una volta entrati in questa nuova scheda bisogna trascinare sulla parte bianca tutti i file necessari (Si può sempre ritornare alla scheda principale cliccando su "Options")
+![alt text](https://raw.githubusercontent.com/CristianTech09/Converti-Bat-in-Exe/main/Screen4.png)
