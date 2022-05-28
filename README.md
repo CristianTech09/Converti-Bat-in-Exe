@@ -19,5 +19,5 @@ una volta entrati in questa nuova scheda bisogna trascinare sulla parte bianca t
 ![alt text](https://raw.githubusercontent.com/CristianTech09/Converti-Bat-in-Exe/main/Screen4.png)
 # 5)La compilazione
 (nel programma ci sono altre opzioni che adesso non mensionerò perchè non sono fondamentali)
-ora possiamo iniziare la compilazione cliccando su convert (prima di farlo vi consiglio se state su Windows10/11 disattivate prima il windows defender)
+ora possiamo iniziare la compilazione cliccando su convert e selezionare il percorso dove salvare il nostro eseguibile (prima di farlo vi consiglio se state su Windows10/11 disattivate prima il windows defender)
 ![alt text](https://raw.githubusercontent.com/CristianTech09/Converti-Bat-in-Exe/main/Screen5.png)
